@@ -1,6 +1,6 @@
 # Five Seconds to Explain the Glass
 
-[![make.fun](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![make.fun](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 [![Rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/giandisruw/u-po-pu-five-seconds-to-explain-the-glass-934d9949/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard)
 [![Reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/giandisruw/u-po-pu-five-seconds-to-explain-the-glass-934d9949/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
